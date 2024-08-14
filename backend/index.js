@@ -10,7 +10,7 @@ const PORT = 8080;
 // Use CORS to allow cross-origin requests
 app.use(
   cors({
-    origin: 'http://localhost:5173',
+    origin: 'http://localhost:5174',
   })
 );
 

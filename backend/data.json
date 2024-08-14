@@ -1,0 +1,81 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "continent": "Oceania",
+      "image": "images/australia.png",
+      "rank": 4
+    },
+    {
+      "id": 2,
+      "name": "England",
+      "continent": "Europe",
+      "image": "images/england.png",
+      "rank": 5
+    },
+    {
+      "id": 3,
+      "name": "Namibia",
+      "continent": "Africa",
+      "image": "images/namibia.png",
+      "rank": 8
+    },
+    {
+      "id": 4,
+      "name": "New Zealand",
+      "continent": "Oceania",
+      "image": "images/newzealand.png",
+      "rank": 3
+    },
+    {
+      "id": 5,
+      "name": "Pakistan",
+      "continent": "Asia",
+      "image": "images/pakistan.png",
+      "rank": 6
+    },
+    {
+      "id": 6,
+      "name": "Zimbabwe",
+      "continent": "Africa",
+      "image": "images/zimbabwe.png",
+      "rank": 7
+    },
+    {
+      "id": 7,
+      "name": "South Africa",
+      "continent": "Africa",
+      "image": "images/southafrica.png",
+      "rank": 2
+    },
+    {
+      "id": 8,
+      "name": "India",
+      "continent": "Asia",
+      "image": "images/india.png",
+      "rank": 1
+    },
+    {
+      "id": 9,
+      "name": "Russia",
+      "continent": "Asia",
+      "image": "images/1723588215475.png",
+      "rank": 10
+    },
+    {
+      "id": 10,
+      "name": "China",
+      "continent": "Asia",
+      "image": "images/1723589942637.png",
+      "rank": 13
+    },
+    {
+      "id": 11,
+      "name": "Sri Lanka",
+      "continent": "Asia",
+      "image": "images/1723595020861.png",
+      "rank": 12
+    }
+  ]
+}
